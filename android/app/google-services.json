@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683980270361",
+    "project_id": "gtgk-a48f5",
+    "storage_bucket": "gtgk-a48f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683980270361:android:0451af234900a09710b388",
+        "android_client_info": {
+          "package_name": "com.baigtgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpX-bX3Ciw_0sqLQjrvt8MmBMuWhDUrIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
